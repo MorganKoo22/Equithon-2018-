@@ -1,2 +1,3 @@
 Practicing file conflicts
 print("Hello, World!")
+Conlficts appear when.... two work paths or branches cannot be merged; conflict because ex. lines 1-3 in two separate branches aren't the same... therefore cannot be merged?
